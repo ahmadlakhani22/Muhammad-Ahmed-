@@ -3,7 +3,7 @@
 Hi, I'm Muhammad Ahmad.
 
 - 💻 Currently learning Web Development at SMIT
-- 🌐 Currently focusing on HTML and Web Development fundamentals
+- 🌐 Focusing on HTML and Web Development fundamentals
 - 📚 Student of Computer Science
 - 🚀 Building beginner-level web projects while learning
 - 🔧 Using Git & GitHub to manage and showcase my projects
@@ -11,5 +11,5 @@ Hi, I'm Muhammad Ahmad.
 
 ### 🛠️ Currently Learning
 - HTML
-- Web Development
+- CSS
 - Git & GitHub
